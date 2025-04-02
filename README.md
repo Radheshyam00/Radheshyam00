@@ -26,6 +26,11 @@
 
 ---
 
+### 👯 Achievements
+<img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/Pagalboy00.png" width="300" />
+
+---
+
 ### 📢 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/radheshyam-janwa-9a4506227)
 
