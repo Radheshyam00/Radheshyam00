@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Radheshyam Janwa</h1>
-<h3 align="center">A Passionate Cybersecurity Analyst from India</h3>
+<h2 align="center">A Passionate Cybersecurity Analyst from India</h2>
+<h3 align="center">Certified From EC-Council, Microsoft, Cisco, Red Hat, ISC2, Belkasoft,The SecOps Group</h3>
 <!-- ### Hi there! 👋 I'm Radheshyam Janwa
 #### A Passionate Cybersecurity Analyst from India -->
+<!-- - 👯 I’m looking to collaborate on **[Project Name](Project Link)** -->
+<!-- - 🤝 I’m looking for help with **[Project Name](Project Link)** -->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Radheshyam00&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -11,15 +14,14 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **[Project Name](Project Link)**
-- 🌱 I’m currently learning **Linux, SOC Analysis, Incident Response, Malware Analysis**
-- 👯 I’m looking to collaborate on **[Project Name](Project Link)**
-- 🤝 I’m looking for help with **[Project Name](Project Link)**
-- 👨‍💻 Check out my projects at **[Portfolio](Portfolio Link)**
-- 📝 I regularly write articles on **[Blog](Blog Link)**
-- 💬 Ask me about **Linux, Cybersecurity, and Ethical Hacking**
-- 📫 Reach me at **radheshyamjanwa666@gmail.com**
-- 📄 Know more about my experience: **[Resume](Resume Link)**
+- 🔭 I’m currently working on **Call Handler Project**
+- 🌱 I’m currently learning **Linux, SOC Analysis, Incident Response, Malware Analysis, Ethical Hacking, DFIR**
+- 📝 Certicate - **CEH, CSA, RHCSA, CC, CAP, CNSP, Fabric Analyst**
+- 👨‍💻 Check out my projects at **[Portfolio](https://portfolio-radhe00.vercel.app/)**
+- 📝 I regularly write articles on **[Blog Link](https://medium.com/@radheshyamjanwa666)**
+- 💬 Ask me about **Linux System, Cybersecurity,Microsoft Fabric,Security Operational Center(SOC) and Ethical Hacking**
+- 📫 Reach me at **[Gmail](radheshyamjanwa666@gmail.com)**
+- 📄 Know more about my experience: **[Resume Link](https://github.com/Radheshyam00/Portfolio-Radhe00/blob/main/public/sample-resume.pdf)**
 - ⚡ Fun fact: **I think I am pagal 😆**
 
 ---
