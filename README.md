@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on **Call Handler Project**
 - 🌱 I’m currently learning **Linux, SOC Analysis, Incident Response, Malware Analysis, Ethical Hacking, DFIR**
-- 📝 Certicate - **CEH, CSA, RHCSA, CC, CAP, CNSP, Fabric Analyst**
+- 📝 Certicate - **CEH, CSA, RHCSA, SC-200, ACP, CC, CAP, CNSP, DP-600**
 - 👨‍💻 Check out my projects at **[Portfolio](https://portfolio-radhe00.vercel.app/)**
 - 📝 I regularly write articles on **[Blog Link](https://medium.com/@radheshyamjanwa666)**
 - 💬 Ask me about **Linux System, Cybersecurity,Microsoft Fabric,Security Operational Center(SOC) and Ethical Hacking**
